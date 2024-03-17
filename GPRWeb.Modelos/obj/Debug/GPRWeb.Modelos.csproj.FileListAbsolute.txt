@@ -1,0 +1,6 @@
+D:\Proyectos\GPRWeb\GPRWeb.Modelos\bin\Debug\GPRWeb.Modelos.dll
+D:\Proyectos\GPRWeb\GPRWeb.Modelos\bin\Debug\GPRWeb.Modelos.pdb
+D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.csproj.AssemblyReference.cache
+D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.csproj.CoreCompileInputs.cache
+D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.dll
+D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.pdb

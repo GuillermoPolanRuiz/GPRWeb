@@ -1,0 +1,9 @@
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\GPRWeb.AccesoDatos.dll
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\GPRWeb.AccesoDatos.pdb
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\System.Data.SqlClient.dll
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\System.Data.SqlClient.xml
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.AssemblyReference.cache
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.CopyComplete
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.dll
+D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.pdb
