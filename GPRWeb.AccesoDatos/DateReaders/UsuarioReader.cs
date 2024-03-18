@@ -17,7 +17,8 @@ namespace GPRWeb.AccesoDatos.DateReaders
                 Usuario usuario = new Usuario() { 
                     IdUsuario = Convert.ToInt32(reader["IdUsuario"]),
                     Nombre = Convert.ToString(reader["Nombre"]),
-                    IdRol = Convert.ToInt32(reader["IdRol"])
+                    Pass = Convert.ToString(reader["Pass"]),
+                    DescripciónRol = Convert.ToString(reader["DescripcionRol"])
                 };
                 return usuario;
             }

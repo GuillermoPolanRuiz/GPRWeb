@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Control.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\SecurityControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\GPRWeb.AccesoDatos\GPRWeb.AccesoDatos.csproj">

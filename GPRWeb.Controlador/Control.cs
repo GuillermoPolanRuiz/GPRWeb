@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GPRWeb.AccesoDatos
+namespace GPRWeb.Controlador
 {
     public class Control
     {
@@ -16,9 +16,14 @@ namespace GPRWeb.AccesoDatos
             database = new DatabaseWeb();
         }
 
-        public Usuario Usuario_SEL(string nombre)
+        public Usuario Usuario_SEL(string nombre, string pass)
         {
-            return database.Usuario_SEL(nombre);
+            Usuario usuario = database.Usuario_SEL(nombre);
+            if (!String.IsNullOrEmpty(usuario.Pass) && usuario.Pass == Security.SecurityControl.Encrypt(pass))
+            {
+                return usuario;
+            }
+            return new Usuario();
         }
     }
 }

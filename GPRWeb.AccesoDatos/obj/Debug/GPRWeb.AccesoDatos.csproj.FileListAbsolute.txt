@@ -7,3 +7,14 @@ D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.CoreC
 D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.CopyComplete
 D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.dll
 D:\Proyectos\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\GPRWeb.AccesoDatos.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\GPRWeb.AccesoDatos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\GPRWeb.Modelos.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\GPRWeb.Modelos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.CopyComplete
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.pdb

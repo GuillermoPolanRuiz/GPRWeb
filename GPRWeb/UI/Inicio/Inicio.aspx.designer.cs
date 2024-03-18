@@ -7,20 +7,20 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace GPRWeb
+namespace GPRWeb.UI.Inicio
 {
 
 
-    public partial class SiteMaster
+    public partial class Inicio
     {
 
         /// <summary>
-        /// Control MainContent.
+        /// Control form1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
     }
 }

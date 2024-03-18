@@ -15,7 +15,7 @@ namespace GPRWeb.AccesoDatos
         private static SqlConnection conexion;
         public DatabaseWeb()
         {
-            SqlConnection conexion = new SqlConnection();
+            conexion = new SqlConnection();
             conexion.ConnectionString = ConfigurationManager.AppSettings["CadenaConexion"];
         }
 
@@ -30,9 +30,10 @@ namespace GPRWeb.AccesoDatos
                     comando.Parameters.Add(parametro);
                     conexion.Open();
                     SqlDataReader reader = comando.ExecuteReader();
+                    Usuario usuario = new UsuarioReader().GetReader(reader);
                     conexion.Close();
 
-                    return new UsuarioReader().GetReader(reader);
+                    return usuario;
                 }
             }
             catch (Exception ex)

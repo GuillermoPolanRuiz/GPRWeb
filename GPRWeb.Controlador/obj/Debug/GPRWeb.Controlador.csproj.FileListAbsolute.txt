@@ -1,0 +1,11 @@
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\GPRWeb.Controlador.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\GPRWeb.Controlador.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\GPRWeb.AccesoDatos.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\GPRWeb.Modelos.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\GPRWeb.AccesoDatos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\GPRWeb.Modelos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.csproj.AssemblyReference.cache
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.csproj.CopyComplete
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.pdb

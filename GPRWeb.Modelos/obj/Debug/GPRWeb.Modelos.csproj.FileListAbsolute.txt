@@ -4,3 +4,9 @@ D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.csproj.AssemblyRefer
 D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.csproj.CoreCompileInputs.cache
 D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.dll
 D:\Proyectos\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Modelos\bin\Debug\GPRWeb.Modelos.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Modelos\bin\Debug\GPRWeb.Modelos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Modelos\obj\Debug\GPRWeb.Modelos.csproj.AssemblyReference.cache

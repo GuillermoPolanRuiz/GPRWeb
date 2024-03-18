@@ -1,42 +1,31 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="GPRWeb._Default" %>
+﻿<%@ Page Title="GPRWeb" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="GPRWeb._Default"%>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-
-    <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-    </div>
-
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Getting started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
-        </div>
-    </div>
+    <link rel="stylesheet" href="Styles/Default.css" type="text/css" media="screen" />
+    <body class="main-bg">
+        <div class="login-container text-c animated flipInX">
+                <div>
+                    <h1 class="logo-badge text-whitesmoke"><span class="fa fa-user-circle"></span></h1>
+                </div>
+                    <h3 class="text-whitesmoke">Sign In Template</h3>
+                    <p class="text-whitesmoke">Sign In</p>
+                <div class="container-content">
+                    <form class="margin-t">
+                        <div class="form-group">
+                            <input id="tbUser" type="text" class="form-control" placeholder="Username" required="" runat="server">
+                        </div>
+                        <div class="form-group">
+                            <input id="tbPass" type="password" class="form-control" placeholder="*****" required="" runat="server">
+                        </div>
+                        <asp:Button ID="btnConsultar" runat="server" Text="Consultar" CssClass="form-button button-l margin-b" OnClick="Consultar_Click" TabIndex="5" />
+        
+                        <a class="text-darkyellow" href="#"><small>Forgot your password?</small></a>
+                        <p class="text-whitesmoke text-center"><small>Do not have an account?</small></p>
+                        <a class="text-darkyellow" href="#"><small>Sign Up</small></a>
+                    </form>
+                    <p class="margin-t text-whitesmoke"><small> Your Name &copy; 2018</small> </p>
+                </div>
+            </div>
+    </body>
 
 </asp:Content>
