@@ -1,4 +1,5 @@
-﻿using GPRWeb.Modelos.Usuario;
+﻿using GPRWeb.Modelos.Movie;
+using GPRWeb.Modelos.Usuario;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,9 +21,15 @@ namespace GPRWeb
             Usuario usuario = control.Usuario_SEL(nombre, pass);
             if (usuario.IdUsuario != 0)
             {
+                Session["usuario"] = usuario;
                 Response.Redirect("UI/Inicio/Inicio.aspx");
             }
             return false;
+        }
+
+        protected List<Movie> CargarMovies()
+        {
+            return control.GetTrending();
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using GPRWeb.AccesoDatos;
+using GPRWeb.Modelos.Movie;
 using GPRWeb.Modelos.Usuario;
 using System;
 using System.Collections.Generic;
@@ -11,9 +12,11 @@ namespace GPRWeb.Controlador
     public class Control
     {
         private DatabaseWeb database;
+        private TMDB tmdb;
         public Control()
         {
             database = new DatabaseWeb();
+            tmdb = new TMDB();
         }
 
         public Usuario Usuario_SEL(string nombre, string pass)
@@ -24,6 +27,11 @@ namespace GPRWeb.Controlador
                 return usuario;
             }
             return new Usuario();
+        }
+
+        public List<Movie> GetTrending()
+        {
+            return tmdb.GetTrending().Result;
         }
     }
 }

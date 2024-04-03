@@ -9,3 +9,5 @@ C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.cspr
 C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.csproj.CopyComplete
 C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.dll
 C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\obj\Debug\GPRWeb.Controlador.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.Controlador\bin\Debug\Newtonsoft.Json.xml

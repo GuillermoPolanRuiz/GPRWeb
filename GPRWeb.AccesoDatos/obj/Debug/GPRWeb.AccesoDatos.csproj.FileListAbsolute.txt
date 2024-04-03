@@ -18,3 +18,5 @@ C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.cspr
 C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.csproj.CopyComplete
 C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.dll
 C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\obj\Debug\GPRWeb.AccesoDatos.pdb
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GPR\Desktop\GPRWeb\GPRWeb.AccesoDatos\bin\Debug\Newtonsoft.Json.xml
